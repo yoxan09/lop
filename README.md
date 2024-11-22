@@ -1,0 +1,2 @@
+# lop
+server minecraft
